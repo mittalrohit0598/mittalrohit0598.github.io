@@ -19,15 +19,15 @@ Welcome to The Grape Scribbler. A blog for all my crazy ideas, opinions and know
   <label>
     Your Name:
     <input type="text" name="name">
-  </label>
+  </label><br>
   <label>
     Your Email:
     <input type="email" name="_replyto">
-  </label>
+  </label><br>
   <label>
     Message:
     <textarea name="message"></textarea>
-  </label>
+  </label><br>
   <input type="submit" value="Send">
 </form>
 
