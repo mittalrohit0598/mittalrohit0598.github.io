@@ -11,11 +11,24 @@ I am a joyful person at heart but often misunderstood. I love stories, games, un
 Welcome to The Grape Scribbler. A blog for all my crazy ideas, opinions and knowledge. I am not gonna claim to have the secret to success or the solution to all your problems. I do promise to write new, interesting and orginal content to the best of my abilities.
 
 ### Contact me
+<!-- modify this form HTML and place wherever you want your form -->
 
-<form action="https://formspree.io/moqvznzg" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+<form
+  action="https://formspree.io/mledkpdo"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
 </form>
 
 [rohitmittal@thegrapescribbler.com](mailto:rohitmittal@thegrapescribbler.com)
