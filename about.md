@@ -12,10 +12,23 @@ Welcome to The Grape Scribbler. A blog for all my crazy ideas, opinions and know
 
 ### Contact me
 
-<form action="https://formspree.io/mledkpdo" method="POST">
-  <p>Name</p><input type="text" name="name">
-  <p>Email</p><input type="email" name="_replyto">
+<form
+  action="https://formspree.io/mledkpdo"
+  method="POST"
+>
+  <label>
+    Your Name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Your Email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
   <input type="submit" value="Send">
 </form>
 
-[rohitmittal@thegrapescribbler.com](mailto:rohitmittal@thegrapescribbler.com)
+#[rohitmittal@thegrapescribbler.com]#(mailto:rohitmittal@thegrapescribbler.com)
