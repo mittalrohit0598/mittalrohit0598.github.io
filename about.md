@@ -13,8 +13,8 @@ Welcome to The Grape Scribbler. A blog for all my crazy ideas, opinions and know
 ### Contact me
 
 <form action="https://formspree.io/mledkpdo" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
+  <p>Name</p><input type="text" name="name">
+  <p>Email</p><input type="email" name="_replyto">
   <input type="submit" value="Send">
 </form>
 
