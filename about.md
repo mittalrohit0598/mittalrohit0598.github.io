@@ -12,4 +12,4 @@ Welcome to The Grape Scribbler. A blog for all my crazy ideas, opinions and know
 
 ### Contact me
 
-[mittalrohit0598@gmail.com](mailto:mittalrohit0598@gmail.com)
+[rohitmittal@thegrapescribbler.com](mailto:rohitmittal@thegrapescribbler.com)
