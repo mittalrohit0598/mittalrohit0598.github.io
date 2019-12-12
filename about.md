@@ -16,5 +16,5 @@ Welcome to The Grape Scribbler. A blog for all my crazy ideas, opinions and know
   <p>Name</p><input type="text" name="name">
   <p>Email</p><input type="email" name="_replyto">
   <p>Message:</p><textarea name="message"></textarea>
-  <input type="submit" value="Send">
+  <p></p><input type="submit" value="Send">
 </form>
